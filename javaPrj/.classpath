@@ -6,5 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java 자료/day10/동기/재열님/MM3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java 자료/day10/동기/단야님/twoSum.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/java 자료/day10/동기/재혁님/JH_Ex.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
