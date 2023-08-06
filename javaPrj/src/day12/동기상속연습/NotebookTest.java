@@ -1,4 +1,4 @@
-package java_day12.동기상속연습;
+package day12.동기상속연습;
 
 public class NotebookTest {
 	
