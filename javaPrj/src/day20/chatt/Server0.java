@@ -19,7 +19,7 @@ public class Server0 {
 
 	public Server0() {
 		try {
-			ss = new ServerSocket(8000);
+			ss = new ServerSocket(6100);
 			// 대기상태에 있다가 client 요청이 오면 통신할 수 있는 소켓을 생성해서 반환합니다.
 			System.out.println("server start!!");
 			s = ss.accept();

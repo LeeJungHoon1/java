@@ -1,4 +1,4 @@
-package day9.함수;
+package day09.함수;
 
 public class CallByValue {
 

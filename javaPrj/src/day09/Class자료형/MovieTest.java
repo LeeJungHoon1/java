@@ -1,4 +1,4 @@
-package day9.Class자료형;
+package day09.Class자료형;
 
 public class MovieTest {
 

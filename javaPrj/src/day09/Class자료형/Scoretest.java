@@ -1,8 +1,8 @@
-package day9.Class자료형;
+package day09.Class자료형;
 
 import java.util.Scanner;
 
-public class Scoretest2 {
+public class Scoretest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,10 +22,7 @@ public class Scoretest2 {
 		sc.avg = (sc.kor + sc.eng) / 2;
 		System.out.println("당신의 국어 영어 평균은" + sc.avg + " 입니다");
 		
-		int menu;
-		loop: while (true) {
-			System.out.println("메뉴선택 :  1. 성적등록, 2. 조회, 3.종료");
-		}
+		
 
 	}
 
